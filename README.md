@@ -23,7 +23,7 @@
 <br/>
           
 ## 📣 Contact          
-[![Tech Blog Badge](http://img.shields.io/badge/Tech-3DDC89?style=flat-square&logo=Iconify&link=https://velog.io/@sileeee/)](https://velog.io/@sileeee/)
+[![Tech Blog Badge](http://img.shields.io/badge/TechBlog-3DDC89?style=flat-square&logo=Iconify&link=https://velog.io/@sileeee/)](https://velog.io/@sileeee/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tldms201@dgu.ac.kr)
 [![Notion Badge](https://img.shields.io/badge/Notion%20-black?style=flat-square&logo=Notion&logoColor=white)](https://juicy-blender-478.notion.site/SILEEEE-LOG-17dcac5a091743e5a0a4ec47b2ec86fe)
          
