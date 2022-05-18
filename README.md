@@ -6,6 +6,7 @@
           
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sileeee&show_icons=true&theme=dark )](https://github.com/sileeee/github-readme-stats)
 
+
 <br/>
          
 
@@ -20,19 +21,10 @@
 [![Tech Blog Badge](http://img.shields.io/badge/TechBlog-3DDC89?style=flat-square&logo=Iconify&link=https://velog.io/@sileeee/)](https://velog.io/@sileeee/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tldms201@dgu.ac.kr)
 [![Notion Badge](https://img.shields.io/badge/Notion%20-black?style=flat-square&logo=Notion&logoColor=white)](https://juicy-blender-478.notion.site/SILEEEE-LOG-17dcac5a091743e5a0a4ec47b2ec86fe)
+
+##### 🍀 기술블로그 최신 글 
          
-          
-<!--
-**sileeee/sileeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=sileeee)](https://velog.io/@sileeee)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sileeee)](https://velog.io/@sileeee) -->
