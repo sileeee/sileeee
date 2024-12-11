@@ -8,7 +8,7 @@
 
 
 <br/>
-         -MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white
+
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&style=flat-square"/> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white&style=flat-square"/> <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat-square&style=for-the-badge"/>
