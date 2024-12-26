@@ -3,15 +3,13 @@
 - I'm currently interested in web development. <br/>
 - I’m currently learning Java, Python, Javascript. <br/>
 - Ask me about anything [here](https://github.com/sileeee/sileeee/issues/)
-          
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sileeee&show_icons=true&theme=dark )](https://github.com/sileeee/github-readme-stats)
-
+  
 
 <br/>
 
 
 ## Tech Stack
-<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&style=flat-square"/> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white&style=flat-square"/> <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat-square&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&style=flat-square"/> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white&style=flat-square"/> <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat-square&style=for-the-badge"/>
 <br/>
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/-MongoDB-13aa52?logo=mongodb&logoColor=white&style=flat-square&style=for-the-badge"/> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&style=for-the-badge&logo=redis&logoColor=white"/>
 <br/>
