@@ -1,4 +1,4 @@
-## Hi <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1586272312/noticon/g2e8rnk6ywfirsfgugvq.gif" width="80"/> I'm sieun!  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsileeee%2Fhit-counter&count_bg=%23C3C3C3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## Hi <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1586272312/noticon/g2e8rnk6ywfirsfgugvq.gif" width="80"/> I'm sieun!
 
 - I'm currently interested in web development. <br/>
 - I’m currently learning Java, Python, Javascript. <br/>
